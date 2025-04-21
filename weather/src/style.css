@@ -149,7 +149,7 @@ input, button {
 .weather-form_input {
   flex-grow: 1;
   font-size: 20px;
-  border: var(--width-line) solid var(--accent-rgb);
+  border: var(--width-line) solid var(--accent);
   border-radius: var(--border-radius);
   padding: 10px 15px;
   box-sizing: border-box;
